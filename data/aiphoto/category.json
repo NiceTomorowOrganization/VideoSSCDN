@@ -2,22 +2,22 @@
   {
     "id":1,
     "name":"Trending",
-    "url": "aiphoto/trending.json"
+    "url": "data/aiphoto/trending.json"
   },
    {
     "id":2,
     "name":"Sensual Potrait",
-    "url": "aiphoto/sensual_portrait.json"
+    "url": "data/aiphoto/sensual_portrait.json"
   },
   {
     "id":3,
     "name":"Valentine",
-    "url": "aiphoto/valentine.json"
+    "url": "data/aiphoto/valentine.json"
   },
   {
     "id":4,
     "name":"Studio Elegance",
-    "url": "aiphoto/studio_elegance.json"
+    "url": "data/aiphoto/studio_elegance.json"
   }
   
 ]
