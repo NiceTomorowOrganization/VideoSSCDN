@@ -20,11 +20,6 @@
     "url": "data/aiphoto/studio_elegance.json"
   },
   {
-    "id": 5,
-    "name": "Romantic Clicks",
-    "url": "data/aiphoto/romantic_clicks.json"
-  },
-  {
     "id": 6,
     "name": "Holiday Season",
     "url": "data/aiphoto/holiday_season.json"
