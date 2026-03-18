@@ -1,0 +1,68 @@
+[
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Slasher Glow",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_1.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way. The facial structure, proportions, bone shape, jawline, cheeks, chin, nose, lips, eyes, eyelids, eyebrows, expression, and facial symmetry must remain exactly identical to the original photo. No reinterpretation, no enhancement, no beautification, no reshaping.\n\nNO FRECKLES (MANDATORY): Do not add freckles or speckles to the skin.\n\nSKIN TEXTURE (CRITICAL): Keep skin neat and clean but fully realistic and photographic — visible fine pores, natural micro skin grain, subtle tonal variation. No airbrushing, no plastic smoothing, no beauty filters.\n\nLIPS & MICRO-DETAIL (CRITICAL): Preserve the original lip shape exactly (size, edges, cupid's bow, vermilion border) and keep realistic lip lines and subtle specular highlights.\n\nHAIR PRESERVATION (STRICT): Preserve the original hairstyle exactly — same hairline, length, volume, texture, direction, density, and hair color. No changes to haircut, parting, or hair shape.\n\nCinematic close-up portrait looking directly into the camera with a soft, neutral expression. Dramatic \"slasher\" lighting style creates a dark sharp vertical shadow covering the right side of face (viewer's left), while the other side is bathed in warm, soft golden hour sunlight. Hand partially raised to face, with fingers slightly curled and nails painted in metallic silver chrome polish. Hyper-realistic skin texture showing subtle pores and soft dewy glow. Wearing simple mauve-pink t-shirt and delicate gold layered necklaces. Dark, moody background, 8k resolution, shot on 85mm lens, high contrast, photorealistic.",
+    "negative_prompt": "freckles, speckles, face reshaping, facial reconstruction, identity change, lip shape change, eye shape change, nose change, jawline change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, altered hair length, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  },
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Rembrandt Touch",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_2.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way. The facial structure, proportions, bone shape, jawline, cheeks, chin, nose, lips, eyes, eyelids, eyebrows, expression, and facial symmetry must remain exactly identical to the original photo. No reinterpretation, no enhancement, no beautification, no reshaping.\n\nNO FRECKLES (MANDATORY): Do not add freckles or speckles to the skin.\n\nSKIN TEXTURE (CRITICAL): Keep skin neat and clean but fully realistic and photographic — visible fine pores, natural micro skin grain, subtle tonal variation. No airbrushing, no plastic smoothing, no beauty filters.\n\nLIPS & MICRO-DETAIL (CRITICAL): Preserve the original lip shape exactly (size, edges, cupid's bow, vermilion border) and keep realistic lip lines and subtle specular highlights.\n\nHAIR PRESERVATION (STRICT): Preserve the original hairstyle exactly — same hairline, length, volume, texture, direction, density, and hair color. No changes to haircut, parting, or hair shape.\n\nHyper-realistic, close-up cinematic portrait. Lighting: Intense dramatic side-lighting (Rembrandt lighting) creating a sharp vertical shadow that bisects the face, leaving one side in deep mystery and the other in warm, golden-hour sunlight. Visible skin pores and soft dewy glow on the cheekbones. Hand delicately raised to face with neat, almond-shaped fingernails painted in matte white. Shallow depth of field with blurred dark background, shot on 85mm lens, f/1.8, high contrast, 8k resolution, photorealistic, moody and intimate atmosphere. Wearing simple mauve-pink t-shirt and delicate gold layered necklaces.",
+    "negative_prompt": "freckles, speckles, face reshaping, facial reconstruction, identity change, lip shape change, eye shape change, nose change, jawline change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, altered hair length, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  },
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Golden Beam",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_3.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way. The facial structure, proportions, bone shape, jawline, cheeks, chin, nose, lips, eyes, eyelids, eyebrows, expression, and facial symmetry must remain exactly identical to the original photo. No reinterpretation, no enhancement, no beautification, no reshaping.\n\nNO FRECKLES (MANDATORY): Do not add freckles or speckles to the skin.\n\nSKIN TEXTURE (CRITICAL): Keep skin neat and clean but fully realistic and photographic — visible fine pores, natural micro skin grain, subtle tonal variation. No airbrushing, no plastic smoothing, no beauty filters.\n\nLIPS & MICRO-DETAIL (CRITICAL): Preserve the original lip shape exactly (size, edges, cupid's bow, vermilion border) and keep realistic lip lines and subtle specular highlights.\n\nHAIR PRESERVATION (STRICT): Preserve the original hairstyle exactly — same hairline, length, volume, texture, direction, density, and hair color. No changes to haircut, parting, or hair shape.\n\nHyper-realistic close-up portrait with soft, serene expression. One hand gently tucked into hair at the top of head, while the other hand rests softly against cheek. Dramatic \"Rembrandt\" lighting style. A sharp, vertical sliver of warm sunlight cuts across the right side of face (viewer's right), illuminating eye, cheek, and hand in high detail. The left side of face and background are cast in deep, very dark, moody shadows (high-key lighting). Dust motes faintly visible in the light beam. Ultra-detailed skin texture showing fine pores. Individual strands of hair catching the golden light. Delicate thin gold chain necklace with small heart pendant visible around neck. Wearing simple, muted mauve or dusty rose-colored top. Cinematic composition, shot on 85mm lens, f/1.8 aperture for shallow depth of field, soft bokeh, 8k resolution, highly photorealistic, moody and intimate atmosphere.",
+    "negative_prompt": "freckles, speckles, face reshaping, facial reconstruction, identity change, lip shape change, eye shape change, nose change, jawline change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, altered hair length, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  },
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Chrome Nails Shadow",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_4.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way.\n\nNO FRECKLES (MANDATORY).\n\nSKIN TEXTURE (CRITICAL): neat, clean, realistic pores and micro texture; no smoothing.\n\nLIPS & MICRO-DETAIL (CRITICAL): preserve original lip shape exactly with realistic lip lines.\n\nHAIR PRESERVATION (STRICT): Preserve original hairstyle exactly.\n\nCinematic close-up portrait with dramatic high-contrast lighting. Sharp diagonal shadow cutting across face from upper right to lower left, creating bold geometric light and shadow interplay. Illuminated side shows warm golden sunlight with visible skin texture and pores. Shadow side remains dark and mysterious. Hand elegantly positioned near face with metallic silver chrome nail polish reflecting light. Soft neutral expression with direct camera gaze. Wearing simple mauve-pink t-shirt and delicate gold layered necklaces. Dark moody background, 8k resolution, shot on 85mm lens, f/1.4, hyper-realistic skin detail, professional fashion photography, high contrast, photorealistic.",
+    "negative_prompt": "freckles, speckles, face reshaping, identity change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  },
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Dusty Rose Light",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_5.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way.\n\nNO FRECKLES (MANDATORY).\n\nSKIN TEXTURE (CRITICAL): neat, clean, realistic pores and micro texture; no smoothing.\n\nLIPS & MICRO-DETAIL (CRITICAL): preserve original lip shape exactly.\n\nHAIR PRESERVATION (STRICT): Preserve original hairstyle exactly.\n\nHyper-realistic close-up portrait with both hands gently framing the face, fingers softly touching cheeks and jawline. Dramatic chiaroscuro lighting with strong vertical light beam cutting through darkness, illuminating center of face while edges fade into deep shadow. Soft serene expression with eyes looking slightly off-camera. Ultra-detailed skin showing natural pores and subtle dewy highlights on cheekbones and nose bridge. Nails painted in soft nude or light pink. Delicate gold chain necklace visible. Wearing dusty rose or mauve colored top. Deep black background, shot on 85mm lens, f/1.8, shallow depth of field, cinematic bokeh, 8k resolution, moody intimate atmosphere, professional portrait photography, photorealistic.",
+    "negative_prompt": "freckles, speckles, face reshaping, identity change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  },
+  {
+    "mode": "IMAGE_EDITING",
+    "name": "Split Shadow Gaze",
+    "width": null,
+    "height": null,
+    "acceptNSFW": "false",
+    "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/ShadowAndLight/shadow_light_6.webp",
+    "imageCount": 1,
+    "positivePrompt": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use the attached photo as the ONLY facial reference. Do NOT change the face in any way.\n\nNO FRECKLES (MANDATORY).\n\nSKIN TEXTURE (CRITICAL): neat, clean, realistic pores and micro texture; no smoothing.\n\nLIPS & MICRO-DETAIL (CRITICAL): preserve original lip shape exactly.\n\nHAIR PRESERVATION (STRICT): Preserve original hairstyle exactly.\n\nCinematic close-up portrait with intense direct eye contact. Dramatic split lighting creating perfect vertical division down center of face - left side illuminated by warm golden hour sunlight, right side cast in deep shadow. One hand raised near face with matte white polished nails. Strong contrast between light and shadow emphasizing facial contours and bone structure. Hyper-realistic skin texture with visible pores and natural luminosity on lit side. Wearing simple mauve-pink t-shirt and delicate gold layered necklaces. Pure black background, shot on 85mm lens, f/1.4, ultra-high contrast, 8k resolution, professional beauty photography, moody dramatic atmosphere, photorealistic detail.",
+    "negative_prompt": "freckles, speckles, face reshaping, identity change, AI beautify, beauty filter, over-smoothing, plastic skin, pore removal, skin blur, changed hairstyle, different hair color, cartoon, anime, illustration, CGI, 3D render, fantasy, HDR overprocessing, low-res, blurry, noise, artifacts, watermark, logo, signature, text, borders, frames, margins, white space, grey bars, extra limbs, deformed anatomy, distorted face"
+  }
+]

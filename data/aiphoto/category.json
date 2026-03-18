@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"Trending",
+    "url": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoMakerCDN@main/aiphoto/trending.json"
+  },
+   {
+    "id":2,
+    "name":"Sensual Potrait",
+    "url": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoMakerCDN@main/aiphoto/sensual_portrait.json"
+  },
+  {
+    "id":3,
+    "name":"Valentine",
+    "url": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoMakerCDN@main/aiphoto/valentine.json"
+  },
+  {
+    "id":4,
+    "name":"Studio Elegance",
+    "url": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoMakerCDN@main/aiphoto/studio_elegance.json"
+  }
+  
+]
