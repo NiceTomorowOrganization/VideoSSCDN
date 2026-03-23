@@ -1,102 +1,41 @@
-{
-  "Templates": [
-    {
-      "id": 153000,
-      "title": [
-        "Top Trending",
-        "Top Trending"
-      ],
-      "parent": "all_apero_qwen_categories",
-      "showSeeAll": "true",
-      "PackList": [
-        {
-          "id": 153026,
-          "title": "Teddy Bear Roses",
-          "cat_id": 153000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/ValentineVideos/valentine_2.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "CRITICAL – IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve exact facial structure, eye shape, eye color, eyebrows, nose, lips, lip shape, jawline, chin, skin texture, facial proportions. No beautification, no reshaping, no smoothing.\n\nCORE SUBJECT & COMPOSITION: Full-body studio portrait of stunning woman with oval face shape and radiant porcelain skin, standing gracefully and smiling. From side of frame, giant fluffy cream-colored teddy bear enters scene and gently leans toward her, presenting massive dense bouquet of deep red and soft pink roses into her hands. Woman receives bouquet with warm joyful smile in her hands and remains standing straight. Both must stand still at once place till last frame. Floor-length shimmering crimson silk gown with high thigh-slit.\n\nFACIAL & EYE DETAILS: Large almond-shaped clear eyes matching original eye color with high-definition iris textures. Fine individual dark eyelashes and perfectly groomed natural arched eyebrows matching original color. Soft warm glint in pupils reflecting studio softboxes. Symmetrical warm smile showing natural white teeth. Softly contoured cheekbones with subtle rosy glow. Thin well-defined lips with natural pink tint and slight satin sheen matching original lip shape exactly.\n\nHAIR: Voluminous side-parted hair matching original hair color styled in soft polished Hollywood waves draping over shoulder.\n\nENVIRONMENT & LIGHTING: Minimalist high-key cream studio backdrop with floating red paper hearts. Glass tiered stand to side holds delicate pastel macarons and cupcakes. Floor scattered with realistic red rose petals. Professional three-point lighting. Soft wrapping key light eliminating harsh shadows on face while maintaining depth and texture in crimson silk dress.\n\n9:16 vertical, ultra-high-resolution, hyper-realistic photography, studio fashion portrait, 8K detail, sharp focus, natural skin texture, romantic cinematic Valentine's Day atmosphere, luxury editorial photography aesthetic.\n\nUse attached input image from frame 0. Giant teddy bear enters smoothly from side presenting massive rose bouquet. Woman remains standing in place with warm joyful smile, receives bouquet with gentle natural hand movements. Both woman and teddy bear stand still after presentation. Subtle natural breathing movements only. Rose petals remain on floor. Soft ambient movements of floating hearts in background. Identity preserved throughout all frames. Smooth continuous video with no walking or position changes.\n\nCombine both prompts to create seamless romantic Valentine video of woman receiving rose bouquet from giant teddy bear in elegant studio setting, both standing still, preserving facial identity from frame 0 throughout entire video.\n\nNegative prompt: low quality, blurred, walking, moving positions, changed location, altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, beautification, smoothing, plastic skin, AI face, cartoon, anime, illustration, choppy animation, jitter, flicker, pixelation, face flickering, identity drift, stiff unnatural movement, watermark, logo, signature, text, borders, frames",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        },
-        {
-          "id": 153023,
-          "title": "Pasta Joy",
-          "cat_id": 153000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_1.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern manhwa/webtoon digital illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean-line ink finish, smooth cel-shading, vibrant warm color palette.\n\nCORE SUBJECT & ACTION: Young woman with joyful expression, captured mid-bite eating spaghetti. Holding silver fork to open mouth with long strands of pasta dangling down. Other hand rests gently on edge of white ceramic plate filled with spaghetti bolognese, topped with fresh basil leaves and grated parmesan.\n\nFACIAL DETAILS: Vibrant warm peach skin tone with soft orange-pink circular blush on cheeks. Eyes tightly closed in happy squint (u-shaped arc), depicted by thick clean black lines with delicate upturned eyelashes at outer corners. Thin dark brown eyebrows arched high in delight. Small simple button nose. Wide joyful open mouth showing clean white upper row of teeth.\n\nHAIR: Rich chocolate brown, styled in voluminous shoulder-length wavy bob with deep side part. Smooth cel-shading with bright golden-tan highlights following curve of waves, glossy bouncy texture.\n\nOUTFIT: Beige ribbed turtleneck sweater with fine vertical lines.\n\nSETTING: Softly blurred upscale Italian restaurant with warm wooden wall paneling, framed picture, golden ambient lighting from wall sconces. Warm inviting color palette dominated by creams, browns, soft ambers.\n\n9:16 vertical, modern manhwa/webtoon style, clean-line finish, warm color grading, professional digital illustration, 8K quality.\n\nUse attached input image from frame 0. Subject maintains joyful eating expression with slight natural movements - gentle head tilt, slight eye squint variation, natural breathing. Fork and pasta strands move slightly with eating motion. Smooth continuous animation preserving caricature style and identity throughout all frames.\n\nCombine both prompts to create seamless caricature-style video of woman joyfully eating pasta in Italian restaurant, preserving facial identity in manhwa/webtoon illustration style from frame 0 throughout.\n\nNegative prompt: photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        },
-        {
-          "id": 153024,
-          "title": "Cozy Reader",
-          "cat_id": 153000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_2.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern semi-realistic anime/webtoon illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean lines, soft cel-shading with painterly textures, vibrant warm tones.\n\nCORE SUBJECT: Young woman with large expressive chestnut-brown almond-shaped eyes with distinct white specular highlights and thick dark eyelashes. Joyful wide open-mouth smile showing white teeth, rosy blush on cheeks, petite nose. Voluminous wavy mid-length chocolate brown hair with subtle caramel highlights, framing face softly.\n\nATTIRE & POSE: Wearing thick cream-colored cable-knit turtleneck sweater. Sitting at wooden cafe table, holding open hardcover book with both hands.\n\nFOREGROUND DETAILS: On table sits white ceramic cup of cafe latte with heart-shaped latte art, small plate with three chocolate chip cookies, pair of black-rimmed glasses.\n\nSETTING & ATMOSPHERE: Cozy sun-drenched library or book-cafe. Large arched windows allow warm golden afternoon sunlight streaming in creating soft glow. Tall floor-to-ceiling bookshelves filled with books line walls. Two blurred male figures seated at separate tables in background, quietly reading.\n\nLIGHTING & COLOR PALETTE: Warm monochromatic golden-brown and cream color scheme. Soft cel-shading with painterly textures. Backlit atmospheric lighting emphasizing cozy academia vibe.\n\n9:16 vertical, semi-realistic anime/webtoon style, warm color grading, professional digital illustration, high resolution, 8K quality.\n\nUse attached input image from frame 0. Subject maintains joyful reading expression with subtle natural movements - gentle page turning motion, slight head movement, natural breathing, eyes moving across book pages. Warm sunlight gently shifts creating soft atmospheric changes. Smooth continuous animation preserving caricature style and identity throughout all frames.\n\nCombine both prompts to create seamless caricature-style video of woman reading happily in cozy library cafe with warm sunlight, preserving facial identity in anime/webtoon illustration style from frame 0 throughout.\n\nNegative prompt: photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, cold lighting, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, dark atmosphere, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement, unnatural motion",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 153026,
+    "title": "Teddy Bear Roses",
+    "imageCount": 1,
+    "positive_prompts": "CRITICAL – IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve exact facial structure, eye shape, eye color, eyebrows, nose, lips, lip shape, jawline, chin, skin texture, facial proportions. No beautification, no reshaping, no smoothing.\n\nCORE SUBJECT & COMPOSITION: Full-body studio portrait of stunning woman with oval face shape and radiant porcelain skin, standing gracefully and smiling. From side of frame, giant fluffy cream-colored teddy bear enters scene and gently leans toward her, presenting massive dense bouquet of deep red and soft pink roses into her hands. Woman receives bouquet with warm joyful smile in her hands and remains standing straight. Both must stand still at once place till last frame. Floor-length shimmering crimson silk gown with high thigh-slit.\n\nFACIAL & EYE DETAILS: Large almond-shaped clear eyes matching original eye color with high-definition iris textures. Fine individual dark eyelashes and perfectly groomed natural arched eyebrows matching original color. Soft warm glint in pupils reflecting studio softboxes. Symmetrical warm smile showing natural white teeth. Softly contoured cheekbones with subtle rosy glow. Thin well-defined lips with natural pink tint and slight satin sheen matching original lip shape exactly.\n\nHAIR: Voluminous side-parted hair matching original hair color styled in soft polished Hollywood waves draping over shoulder.\n\nENVIRONMENT & LIGHTING: Minimalist high-key cream studio backdrop with floating red paper hearts. Glass tiered stand to side holds delicate pastel macarons and cupcakes. Floor scattered with realistic red rose petals. Professional three-point lighting. Soft wrapping key light eliminating harsh shadows on face while maintaining depth and texture in crimson silk dress.\n\n9:16 vertical, ultra-high-resolution, hyper-realistic photography, studio fashion portrait, 8K detail, sharp focus, natural skin texture, romantic cinematic Valentine's Day atmosphere, luxury editorial photography aesthetic.\n\nUse attached input image from frame 0. Giant teddy bear enters smoothly from side presenting massive rose bouquet. Woman remains standing in place with warm joyful smile, receives bouquet with gentle natural hand movements. Both woman and teddy bear stand still after presentation. Subtle natural breathing movements only. Rose petals remain on floor. Soft ambient movements of floating hearts in background. Identity preserved throughout all frames. Smooth continuous video with no walking or position changes.\n\nCombine both prompts to create seamless romantic Valentine video of woman receiving rose bouquet from giant teddy bear in elegant studio setting, both standing still, preserving facial identity from frame 0 throughout entire video.\n\nNegative: low quality, blurred, walking, moving positions, changed location, altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, beautification, smoothing, plastic skin, AI face, cartoon, anime, illustration, choppy animation, jitter, flicker, pixelation, face flickering, identity drift, stiff unnatural movement, watermark, logo, signature, text, borders, frames",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/ValentineVideos/valentine_2.gif",
+    "watermark": false
+  },
+  {
+    "id": 153023,
+    "title": "Pasta Joy",
+    "imageCount": 1,
+    "positive_prompts": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern manhwa/webtoon digital illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean-line ink finish, smooth cel-shading, vibrant warm color palette.\n\nCORE SUBJECT & ACTION: Young woman with joyful expression, captured mid-bite eating spaghetti. Holding silver fork to open mouth with long strands of pasta dangling down. Other hand rests gently on edge of white ceramic plate filled with spaghetti bolognese, topped with fresh basil leaves and grated parmesan.\n\nFACIAL DETAILS: Vibrant warm peach skin tone with soft orange-pink circular blush on cheeks. Eyes tightly closed in happy squint (u-shaped arc), depicted by thick clean black lines with delicate upturned eyelashes at outer corners. Thin dark brown eyebrows arched high in delight. Small simple button nose. Wide joyful open mouth showing clean white upper row of teeth.\n\nHAIR: Rich chocolate brown, styled in voluminous shoulder-length wavy bob with deep side part. Smooth cel-shading with bright golden-tan highlights following curve of waves, glossy bouncy texture.\n\nOUTFIT: Beige ribbed turtleneck sweater with fine vertical lines.\n\nSETTING: Softly blurred upscale Italian restaurant with warm wooden wall paneling, framed picture, golden ambient lighting from wall sconces. Warm inviting color palette dominated by creams, browns, soft ambers.\n\n9:16 vertical, modern manhwa/webtoon style, clean-line finish, warm color grading, professional digital illustration, 8K quality.\n\nUse attached input image from frame 0. Subject maintains joyful eating expression with slight natural movements - gentle head tilt, slight eye squint variation, natural breathing. Fork and pasta strands move slightly with eating motion. Smooth continuous animation preserving caricature style and identity throughout all frames.\n\nCombine both prompts to create seamless caricature-style video of woman joyfully eating pasta in Italian restaurant, preserving facial identity in manhwa/webtoon illustration style from frame 0 throughout.\n\nNegative: photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_1.gif",
+    "watermark": false
+  },
+  {
+    "id": 153024,
+    "title": "Cozy Reader",
+    "imageCount": 1,
+    "positive_prompts": "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern semi-realistic anime/webtoon illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean lines, soft cel-shading with painterly textures, vibrant warm tones.\n\nCORE SUBJECT: Young woman with large expressive chestnut-brown almond-shaped eyes with distinct white specular highlights and thick dark eyelashes. Joyful wide open-mouth smile showing white teeth, rosy blush on cheeks, petite nose. Voluminous wavy mid-length chocolate brown hair with subtle caramel highlights, framing face softly.\n\nATTIRE & POSE: Wearing thick cream-colored cable-knit turtleneck sweater. Sitting at wooden cafe table, holding open hardcover book with both hands.\n\nFOREGROUND DETAILS: On table sits white ceramic cup of cafe latte with heart-shaped latte art, small plate with three chocolate chip cookies, pair of black-rimmed glasses.\n\nSETTING & ATMOSPHERE: Cozy sun-drenched library or book-cafe. Large arched windows allow warm golden afternoon sunlight streaming in creating soft glow. Tall floor-to-ceiling bookshelves filled with books line walls. Two blurred male figures seated at separate tables in background, quietly reading.\n\nLIGHTING & COLOR PALETTE: Warm monochromatic golden-brown and cream color scheme. Soft cel-shading with painterly textures. Backlit atmospheric lighting emphasizing cozy academia vibe.\n\n9:16 vertical, semi-realistic anime/webtoon style, warm color grading, professional digital illustration, high resolution, 8K quality.\n\nUse attached input image from frame 0. Subject maintains joyful reading expression with subtle natural movements - gentle page turning motion, slight head movement, natural breathing, eyes moving across book pages. Warm sunlight gently shifts creating soft atmospheric changes. Smooth continuous animation preserving caricature style and identity throughout all frames.\n\nCombine both prompts to create seamless caricature-style video of woman reading happily in cozy library cafe with warm sunlight, preserving facial identity in anime/webtoon illustration style from frame 0 throughout.\n\nNegative: photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, cold lighting, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, dark atmosphere, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement, unnatural motion",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_2.gif",
+    "watermark": false
+  }
+]

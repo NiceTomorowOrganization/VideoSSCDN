@@ -1,102 +1,41 @@
-{
-  "Templates": [
-    {
-      "id": 174000,
-      "title": [
-        "Cinematic",
-        "Cinematic"
-      ],
-      "parent": "all_apero_qwen_categories",
-      "showSeeAll": "true",
-      "PackList": [
-        {
-          "id": 174004,
-          "title": "Ravens in the Mist",
-          "cat_id": 174000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_1.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "CRITICAL – FACE IDENTITY LOCK (NON-NEGOTIABLE):\nExtract and preserve the input face exactly as-is with ZERO alterations.\nMaintain identical bone structure, jawline, cheekbones, eye shape, eye size, eye color, eyelids, eyebrows, nose shape, nostrils, lips, exact lip shape, mouth width, chin, skin texture, pores, and facial proportions from the input photo.\nNo beautification, no reshaping, no symmetry correction, no smoothing, no stylization.\nThe face must be a perfect 1:1 copy of the input image.\n\nHAIR PRESERVATION (STRICT):\nPreserve the original hairstyle exactly — same hairline, length, volume, texture, direction, density, and hair color.\nNo changes to haircut, parting, or hair shape.\nONLY clothing may change. Everything else is locked.\n\nSCENE & COMPOSITION:\nDramatic black and white cinematic portrait of the same person standing outdoors in a misty, fog-filled winter environment.\nSerious, stern, intense expression with a strong authoritative presence.\nDirect, unwavering eye contact into the camera, slight natural head tilt.\nThe person is wearing a dark black high-collar coat or jacket, structured and elegant, with glasses.\nMedium shot showing upper body.\n9:16 vertical composition, sharp focus on face.\n\nBACKGROUND & ATMOSPHERE:\nOutdoor winter setting with bare, leafless trees.\nOvercast gray sky, fog and mist creating atmospheric depth.\nBare branches clearly visible on the right side of the frame.\n8–12 black birds / ravens flying behind the person, scattered naturally at different depths and distances.\nSome birds appear larger and closer, others smaller and farther away, realistic wing-spread flight poses.\nBirds must remain behind the subject and never overlap or block the face.\n\nSTYLE & LIGHTING:\nFull black and white / monochrome photography only — absolutely no color.\nHigh contrast, cinematic lighting.\nSoft diffused overcast light with subtle fog diffusion.\nNatural skin texture preserved, photorealistic detail.\nDark, moody, dramatic, haunting atmosphere.\nUltra-sharp focus on the face.\n8K quality, cinematic grading, artistic portrait realism.\n\nUse attached input image from frame 0. Birds continue flying naturally in the background with smooth motion. Fog drifts gently through the scene. The person maintains their exact pose, expression, and identity throughout all frames. Subtle atmospheric movement only — no change in position or expression. Smooth, cinematic, continuous video with preserved identity across every frame.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person standing in misty winter environment with ravens flying behind, preserving full face identity from frame 0 throughout.\n\nNegative prompt: altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, face blending, beautification, smoothing, symmetry correction, plastic skin, fake skin, AI face, stylized face, cartoon, anime, illustration, painterly style, low fidelity face, wrong hairstyle, altered hair, different haircut, recolored hair, facial distortion, color photography, any color tones, sepia, warm tones, smiling, happy expression, cheerful mood, indoor scene, urban background, modern setting, green trees, leaves on trees, summer scene, sunny weather, blue sky, no birds, colorful birds, birds in front of face, birds covering face, casual clothing, no coat, low collar, glowing effects, transparent effects, fantasy effects, blurry, low resolution, noise, grain, text, watermark, borders, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        },
-        {
-          "id": 174005,
-          "title": "Bench of Shadows",
-          "cat_id": 174000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_2.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "CRITICAL – IDENTITY LOCK (ZERO TOLERANCE):\nExtract and preserve the input person's face EXACTLY as-is with NO alterations.\nMaintain identical bone structure, skull shape, jawline, chin, cheekbones, nose shape, nostrils, eye shape, eye size, eye color, eyelids, eyebrows, lips, exact lip contour, mouth width, facial proportions, wrinkles, skin texture, pores, age details, and facial asymmetry from the input image.\nNo beautification, no reshaping, no smoothing, no stylization, no de-aging.\nThe face must be a 1:1 photographic copy of the input.\n\nHAIR & FACIAL HAIR LOCK (MANDATORY):\nPreserve exact original hairstyle, hairline, hair length, volume, texture, direction, and hair color.\nPreserve exact facial hair (mustache, beard, density, shape, color, and texture) with zero modification.\nHair and facial hair must not change under any circumstances.\nOnly clothing tone may adapt slightly — everything else is locked.\n\nPOSE & COMPOSITION:\nThe same person remains seated on a wooden bench, body angled slightly to the side.\nSerious, stern, intense, contemplative expression.\nStrong, authoritative presence.\nEyes looking directly into the camera with unwavering focus.\nNo smiling, no relaxed expression.\nMedium shot showing upper body while seated.\n9:16 vertical composition, sharp focus on the face.\n\nWARDROBE:\nThe person is wearing a dark black high-collar coat/jacket, structured and heavy.\nGlasses must remain, same style and position as input.\n\nBACKGROUND & ENVIRONMENT:\nOutdoor misty winter setting with heavy fog.\nBare, leafless trees without any leaves.\nOvercast gray sky.\nA haunting, atmospheric environment with visible depth created by fog.\nTree branches visible in the background, especially toward the sides.\n\nBIRDS (STRICT PLACEMENT RULES):\n8–12 black birds / ravens flying behind the seated person.\nBirds appear at various heights and distances, some closer (larger), some farther (smaller).\nNatural wing-spread flight poses only.\nBirds must never overlap, touch, or block the face or body.\nBirds must remain clearly in the background.\n\nSTYLE & LIGHTING:\nFull black and white / monochrome photography ONLY.\nHigh contrast cinematic lighting.\nSoft, diffused overcast light enhanced by fog.\nNatural skin texture preserved, no plastic or artificial look.\nDramatic shadows, moody tones, cinematic depth.\nPhotorealistic, artistic portrait style.\nUltra-sharp facial focus.\n8K quality, cinematic black-and-white grading.\n\nMOOD:\nDark, mysterious, powerful, contemplative, haunting, dramatic, artistic, timeless.\n\nUse attached input image from frame 0. The person remains seated in the exact same position and expression throughout the entire video. Ravens continue to fly naturally in the foggy background with smooth motion. Fog drifts gently and subtly through the scene creating atmospheric depth. Identity and pose are locked and preserved across every frame. Smooth continuous cinematic video with no position or expression changes.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person seated on a foggy bench with ravens flying behind, preserving full face and pose identity from frame 0 throughout.\n\nNegative prompt: altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, face blending, beautification, symmetry correction, smoothing, plastic skin, AI face, stylized face, cartoon, anime, illustration, painterly style, wrong hairstyle, changed hairline, recolored hair, altered facial hair, standing pose, walking pose, color photography, any color, sepia, warm tones, smiling, happy expression, relaxed mood, indoor scene, urban background, modern setting, green trees, leaves, summer scene, sunny weather, blue sky, no birds, colorful birds, birds in front of face, birds covering subject, casual clothing, no coat, low collar, glowing effects, fantasy effects, blurry, low resolution, noise, grain, text, watermark, borders, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, pose change",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        },
-        {
-          "id": 174006,
-          "title": "Shoreline Phantom",
-          "cat_id": 174000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_3.gif",
-          "credits": 10,
-          "tag_title": "new",
-          "input": {
-            "content": [
-              {
-                "image_url": {
-                  "url": "<USER_IMAGE_PATH>"
-                },
-                "role": "first_frame",
-                "type": "image_url"
-              },
-              {
-                "text": "CRITICAL: Preserve the input face exactly with ZERO changes.\nSame bone structure, jawline, eyes, eye color, eyebrows, nose, lips, mouth shape, wrinkles, skin texture, age details, hairstyle, hair color, hair texture, facial hair, and glasses.\nNo beautification, no reshaping, no smoothing, no stylization.\n\nDramatic black-and-white cinematic portrait of the same person walking slowly toward the camera, front-facing only, shoulders square, direct unwavering eye contact.\nSerious, stern, intense, authoritative expression.\n\nWearing a dark black high-collar coat/jacket, glasses unchanged.\n\nBackground: foggy seaside shoreline, wet sand, distant ocean waves, misty horizon, faint rock formations partially hidden by fog, overcast gray sky.\n\nBirds: 8–15 black birds/ravens flying behind the person, at different distances and sizes, natural wing-spread poses, never blocking the face.\n\nHigh contrast monochrome photography, soft diffused overcast light, cinematic mood, natural skin texture, sharp focus on face, 9:16 vertical, photorealistic, 8K quality.\n\nUse attached input image from frame 0. The person walks slowly and steadily toward the camera maintaining exact identity, expression, and pose angle throughout all frames. Ravens fly naturally behind in the foggy coastal background with smooth realistic motion. Ocean waves move gently in the distant background. Fog drifts subtly through the scene. Identity is locked and preserved across every single frame. Smooth continuous cinematic video.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person walking toward the camera on a foggy shoreline with ravens flying behind, preserving full face identity from frame 0 throughout the entire video.\n\nNegative prompt: side view, profile, angled face, altered face, different lips, different eyes, changed hair, beautified face, plastic skin, color image, sepia, smiling, happy mood, indoor, urban, buildings, green trees, sunny sky, no birds, birds in front of face, cartoon, anime, blur, text, watermark, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, sudden pose change, teleportation, unnatural walking motion, stiff movement",
-                "type": "text"
-              }
-            ],
-            "duration": 8,
-            "framePerSecond": 24,
-            "model": "seedance-1-0-lite-i2v-250428",
-            "ratio": "16:9",
-            "watermark": false,
-            "seed": -1
-          }
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 174004,
+    "title": "Ravens in the Mist",
+    "imageCount": 1,
+    "positive_prompts": "CRITICAL – FACE IDENTITY LOCK (NON-NEGOTIABLE):\nExtract and preserve the input face exactly as-is with ZERO alterations.\nMaintain identical bone structure, jawline, cheekbones, eye shape, eye size, eye color, eyelids, eyebrows, nose shape, nostrils, lips, exact lip shape, mouth width, chin, skin texture, pores, and facial proportions from the input photo.\nNo beautification, no reshaping, no symmetry correction, no smoothing, no stylization.\nThe face must be a perfect 1:1 copy of the input image.\n\nHAIR PRESERVATION (STRICT):\nPreserve the original hairstyle exactly — same hairline, length, volume, texture, direction, density, and hair color.\nNo changes to haircut, parting, or hair shape.\nONLY clothing may change. Everything else is locked.\n\nSCENE & COMPOSITION:\nDramatic black and white cinematic portrait of the same person standing outdoors in a misty, fog-filled winter environment.\nSerious, stern, intense expression with a strong authoritative presence.\nDirect, unwavering eye contact into the camera, slight natural head tilt.\nThe person is wearing a dark black high-collar coat or jacket, structured and elegant, with glasses.\nMedium shot showing upper body.\n9:16 vertical composition, sharp focus on face.\n\nBACKGROUND & ATMOSPHERE:\nOutdoor winter setting with bare, leafless trees.\nOvercast gray sky, fog and mist creating atmospheric depth.\nBare branches clearly visible on the right side of the frame.\n8–12 black birds / ravens flying behind the person, scattered naturally at different depths and distances.\nSome birds appear larger and closer, others smaller and farther away, realistic wing-spread flight poses.\nBirds must remain behind the subject and never overlap or block the face.\n\nSTYLE & LIGHTING:\nFull black and white / monochrome photography only — absolutely no color.\nHigh contrast, cinematic lighting.\nSoft diffused overcast light with subtle fog diffusion.\nNatural skin texture preserved, photorealistic detail.\nDark, moody, dramatic, haunting atmosphere.\nUltra-sharp focus on the face.\n8K quality, cinematic grading, artistic portrait realism.\n\nUse attached input image from frame 0. Birds continue flying naturally in the background with smooth motion. Fog drifts gently through the scene. The person maintains their exact pose, expression, and identity throughout all frames. Subtle atmospheric movement only — no change in position or expression. Smooth, cinematic, continuous video with preserved identity across every frame.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person standing in misty winter environment with ravens flying behind, preserving full face identity from frame 0 throughout.\n\nNegative: altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, face blending, beautification, smoothing, symmetry correction, plastic skin, fake skin, AI face, stylized face, cartoon, anime, illustration, painterly style, low fidelity face, wrong hairstyle, altered hair, different haircut, recolored hair, facial distortion, color photography, any color tones, sepia, warm tones, smiling, happy expression, cheerful mood, indoor scene, urban background, modern setting, green trees, leaves on trees, summer scene, sunny weather, blue sky, no birds, colorful birds, birds in front of face, birds covering face, casual clothing, no coat, low collar, glowing effects, transparent effects, fantasy effects, blurry, low resolution, noise, grain, text, watermark, borders, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_1.gif",
+    "watermark": false
+  },
+  {
+    "id": 174005,
+    "title": "Bench of Shadows",
+    "imageCount": 1,
+    "positive_prompts": "CRITICAL – IDENTITY LOCK (ZERO TOLERANCE):\nExtract and preserve the input person's face EXACTLY as-is with NO alterations.\nMaintain identical bone structure, skull shape, jawline, chin, cheekbones, nose shape, nostrils, eye shape, eye size, eye color, eyelids, eyebrows, lips, exact lip contour, mouth width, facial proportions, wrinkles, skin texture, pores, age details, and facial asymmetry from the input image.\nNo beautification, no reshaping, no smoothing, no stylization, no de-aging.\nThe face must be a 1:1 photographic copy of the input.\n\nHAIR & FACIAL HAIR LOCK (MANDATORY):\nPreserve exact original hairstyle, hairline, hair length, volume, texture, direction, and hair color.\nPreserve exact facial hair (mustache, beard, density, shape, color, and texture) with zero modification.\nHair and facial hair must not change under any circumstances.\nOnly clothing tone may adapt slightly — everything else is locked.\n\nPOSE & COMPOSITION:\nThe same person remains seated on a wooden bench, body angled slightly to the side.\nSerious, stern, intense, contemplative expression.\nStrong, authoritative presence.\nEyes looking directly into the camera with unwavering focus.\nNo smiling, no relaxed expression.\nMedium shot showing upper body while seated.\n9:16 vertical composition, sharp focus on the face.\n\nWARDROBE:\nThe person is wearing a dark black high-collar coat/jacket, structured and heavy.\nGlasses must remain, same style and position as input.\n\nBACKGROUND & ENVIRONMENT:\nOutdoor misty winter setting with heavy fog.\nBare, leafless trees without any leaves.\nOvercast gray sky.\nA haunting, atmospheric environment with visible depth created by fog.\nTree branches visible in the background, especially toward the sides.\n\nBIRDS (STRICT PLACEMENT RULES):\n8–12 black birds / ravens flying behind the seated person.\nBirds appear at various heights and distances, some closer (larger), some farther (smaller).\nNatural wing-spread flight poses only.\nBirds must never overlap, touch, or block the face or body.\nBirds must remain clearly in the background.\n\nSTYLE & LIGHTING:\nFull black and white / monochrome photography ONLY.\nHigh contrast cinematic lighting.\nSoft, diffused overcast light enhanced by fog.\nNatural skin texture preserved, no plastic or artificial look.\nDramatic shadows, moody tones, cinematic depth.\nPhotorealistic, artistic portrait style.\nUltra-sharp facial focus.\n8K quality, cinematic black-and-white grading.\n\nMOOD:\nDark, mysterious, powerful, contemplative, haunting, dramatic, artistic, timeless.\n\nUse attached input image from frame 0. The person remains seated in the exact same position and expression throughout the entire video. Ravens continue to fly naturally in the foggy background with smooth motion. Fog drifts gently and subtly through the scene creating atmospheric depth. Identity and pose are locked and preserved across every frame. Smooth continuous cinematic video with no position or expression changes.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person seated on a foggy bench with ravens flying behind, preserving full face and pose identity from frame 0 throughout.\n\nNegative: altered face, changed facial features, modified bone structure, different lips, different eye shape, different eye color, face morphing, face blending, beautification, symmetry correction, smoothing, plastic skin, AI face, stylized face, cartoon, anime, illustration, painterly style, wrong hairstyle, changed hairline, recolored hair, altered facial hair, standing pose, walking pose, color photography, any color, sepia, warm tones, smiling, happy expression, relaxed mood, indoor scene, urban background, modern setting, green trees, leaves, summer scene, sunny weather, blue sky, no birds, colorful birds, birds in front of face, birds covering subject, casual clothing, no coat, low collar, glowing effects, fantasy effects, blurry, low resolution, noise, grain, text, watermark, borders, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, pose change",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_2.gif",
+    "watermark": false
+  },
+  {
+    "id": 174006,
+    "title": "Shoreline Phantom",
+    "imageCount": 1,
+    "positive_prompts": "CRITICAL: Preserve the input face exactly with ZERO changes.\nSame bone structure, jawline, eyes, eye color, eyebrows, nose, lips, mouth shape, wrinkles, skin texture, age details, hairstyle, hair color, hair texture, facial hair, and glasses.\nNo beautification, no reshaping, no smoothing, no stylization.\n\nDramatic black-and-white cinematic portrait of the same person walking slowly toward the camera, front-facing only, shoulders square, direct unwavering eye contact.\nSerious, stern, intense, authoritative expression.\n\nWearing a dark black high-collar coat/jacket, glasses unchanged.\n\nBackground: foggy seaside shoreline, wet sand, distant ocean waves, misty horizon, faint rock formations partially hidden by fog, overcast gray sky.\n\nBirds: 8–15 black birds/ravens flying behind the person, at different distances and sizes, natural wing-spread poses, never blocking the face.\n\nHigh contrast monochrome photography, soft diffused overcast light, cinematic mood, natural skin texture, sharp focus on face, 9:16 vertical, photorealistic, 8K quality.\n\nUse attached input image from frame 0. The person walks slowly and steadily toward the camera maintaining exact identity, expression, and pose angle throughout all frames. Ravens fly naturally behind in the foggy coastal background with smooth realistic motion. Ocean waves move gently in the distant background. Fog drifts subtly through the scene. Identity is locked and preserved across every single frame. Smooth continuous cinematic video.\n\nCombine both of the above prompts to create one seamless cinematic black and white video of a person walking toward the camera on a foggy shoreline with ravens flying behind, preserving full face identity from frame 0 throughout the entire video.\n\nNegative: side view, profile, angled face, altered face, different lips, different eyes, changed hair, beautified face, plastic skin, color image, sepia, smiling, happy mood, indoor, urban, buildings, green trees, sunny sky, no birds, birds in front of face, cartoon, anime, blur, text, watermark, multiple people, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, sudden pose change, teleportation, unnatural walking motion, stiff movement",
+    "frame_number": 80,
+    "frame_rate": 23,
+    "width": 576,
+    "height": 576,
+    "seed": -1,
+    "string": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Cinematic/cenmatic_3.gif",
+    "watermark": false
+  }
+]
