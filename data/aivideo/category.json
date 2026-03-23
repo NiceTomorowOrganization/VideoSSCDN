@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Trending",
+    "path":"data/aivideo/top_trending.json"
+
+  },
+   {
+    "id": 2,
+    "name": "Holi",
+    "path":"data/aivideo/holi.json"
+
+  },
+   {
+    "id": 3,
+    "name": "Giant meow",
+    "path":"data/aivideo/giant_meow.json"
+
+  },
+   {
+    "id": 4,
+    "name": "Trending",
+    "path":"data/aivideo/cinematic.json"
+
+  }
+]
