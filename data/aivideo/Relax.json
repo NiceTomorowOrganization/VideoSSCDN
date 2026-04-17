@@ -1,0 +1,81 @@
+{
+  "category_id": 45,
+  "category_name": "Relax",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "A young adult man performing a joyful dance while standing upright. His entire body is fully visible in the frame from head to toe. The man is wearing fully covering clothing: a long-sleeve black sweatshirt, loose dark blue jeans, and white sneakers. His outfit covers the entire upper and lower body with no exposed skin except hands and face.\n \nThe man performs energetic dance movements, including rhythmic footwork, side steps, small spins, arm movements, and light jumps, while maintaining a confident and happy expression.\n \nThe scene takes place on a modern outdoor city plaza at night. The background features glowing city lights, illuminated buildings, and colorful LED stage lights creating a lively dance atmosphere.\n \nScene style\n \nsemi-realistic cinematic style\n \nmodern urban environment\n \nvibrant LED lighting\n \nenergetic dance atmosphere\n \nsmooth animation\n \nCamera\n \nfull body shot (head-to-toe visible at all times)\n \ncamera slightly moving but always keeping the dancer fully in frame\n \ncinematic lighting\n \nQuality\n \n4K, smooth motion, high detail, realistic lighting, vibrant colors",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407190672.jpg",
+      "video": "data/aivideo/video/1776407190672.mp4"
+    },
+    {
+      "id": 2,
+      "prompt": "Create a cinematic, realistic video using my uploaded image as the base. A young woman standing on a neon-lit urban street at night in light rain, holding a black umbrella with one hand (only two hands visible, correct human anatomy, no extra limbs). She is wearing a dark raincoat, fully wet from the rain, with fabric visibly soaked and slightly reflective. The camera slowly pushes in toward her face. Raindrops fall naturally on the umbrella, her raincoat, and visibly on her face, with droplets rolling down her skin. Her hair is wet from the rain, slightly sticking to her face and neck, gently moving with a soft breeze. She softly speaks a few words (natural lip movement, subtle expression), while looking toward the camera with a calm, emotional expression. Background features blurred neon signs, soft bokeh lights, and reflections on wet pavement. Add realistic lighting, cool blue tones, shallow depth of field, ultra-realistic 4K cinematic mood, soft focus, natural motion. Keep the same face, same person, no distortion, no identity change.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407208408.jpg",
+      "video": "data/aivideo/video/1776407208408.mp4"
+    },
+    {
+      "id": 3,
+      "prompt": "A young adult man performing a joyful dance while standing upright. His entire body is fully visible in the frame from head to toe. The man is wearing fully covering clothing: a long-sleeve red hoodie, loose black cargo pants, and black athletic sneakers. His outfit fully covers the upper and lower body with no exposed skin except the hands and face.\n \nThe man performs energetic dance movements, including rhythmic footwork, side steps, small spins, arm swings, body grooves, and light jumps, while maintaining a confident and happy expression.\n \nThe scene takes place in a modern outdoor city plaza at night. The background features glowing city lights, illuminated buildings, and colorful LED stage lights creating a lively dance atmosphere.\n \nScene style\n \nsemi-realistic cinematic style\n \nmodern urban environment\n \nvibrant LED lighting\n \nenergetic dance atmosphere\n \nsmooth animation\n \nCamera\n \nfull body shot (head-to-toe visible at all times)\n \ncamera slightly moving but always keeping the dancer fully in frame\n \ncinematic lighting\n \nQuality\n \n4K, smooth motion, high detail, realistic lighting, vibrant colors",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407429880.jpg",
+      "video": "data/aivideo/video/1776407429880.mp4"
+    },
+    {
+      "id": 4,
+      "prompt": "Create a cinematic, realistic video using my uploaded image as the base. A young woman standing on a neon-lit urban street at night in light rain, holding a black umbrella with one hand (only two hands visible, correct human anatomy, no extra limbs). She is wearing a dark raincoat, fully wet from the rain, with fabric visibly soaked and slightly reflective. The camera slowly pushes in toward her face. Raindrops fall naturally on the umbrella, her raincoat, and visibly on her face, with droplets rolling down her skin. Her hair is wet from the rain, slightly sticking to her face and neck, gently moving with a soft breeze. She softly speaks a few words (natural lip movement, subtle expression), while looking toward the camera with a calm, emotional expression. Background features blurred neon signs, soft bokeh lights, and reflections on wet pavement. Add realistic lighting, cool blue tones, shallow depth of field, ultra-realistic 4K cinematic mood, soft focus, natural motion. Keep the same face, same person, no distortion, no identity change.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407439885.jpg",
+      "video": "data/aivideo/video/1776407439885.mp4"
+    },
+    {
+      "id": 5,
+      "prompt": "Use the provided reference image as the exact character reference. Keep the same face, same identity, same hairstyle, and the same body proportions. Do not change facial structure or appearance.\n \n🎭 Character Appearance\n \nA cheerful young man with expressive eyes and a playful personality. He reacts dramatically with exaggerated comedic facial expressions, creating a funny and entertaining vibe.\n \n👕 Outfit\n \nHe is wearing a casual fitted light-colored long-sleeve sweater made from soft knit fabric. The outfit looks simple, comfortable, and clean with a relaxed everyday style.\n \n🏢 Scene\n \nThe scene takes place inside a modern elevator with metallic walls and bright ceiling lights. Elevator buttons and a control panel are visible on one side.\n \nThe environment is small and enclosed, creating a fun selfie-style social media vibe.\n \n🤣 Funny Expressions + Movements\n \nThe character performs playful exaggerated comedy reactions:\n \nHe suddenly opens his eyes wide and gasps dramatically, looking shocked.\n \nHe quickly leans closer to the camera and squints suspiciously, like he is trying to investigate something.\n \nHe scratches his head with a confused expression, tilting his head sideways.\n \nHe suddenly pretends to pose like a model, flipping his hair confidently.\n \nThen he immediately breaks the pose and makes a silly face, puffing his cheeks.\n \nHe points at the camera and nods exaggeratedly, as if saying “You saw that!”\n \nHe performs a quick funny mini dance with shoulder shimmies and small head bobs.\n \nHe finishes by making a big goofy smile and giving a playful wink to the camera.\n \nThe expressions feel funny, energetic, meme-like, and social-media friendly.\n \n🎥 Camera\n \nVertical selfie-style close camera, like a smartphone recording.\n \nSlight handheld movement to make the video feel natural and casual.\n \n✨ Style\n \nNatural lighting\nExpressive facial animation\nFunny exaggerated reactions\nSmooth motion\nNo face distortion\nHigh realism\n4K quality\n \nDuration: 5–8 seconds",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407754173.jpg",
+      "video": "data/aivideo/video/1776407754173.mp4"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category_id": 6,
+  "category_name": "Gothic Vibes",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "Identity preserved.\n\nStyle & Wardrobe:\n• Smoky eyes with black-green tones, matte plum lips, and pale skin.\n• Black leather jacket with metallic studs, black corset with seams, and light knit scarf.\n• Minimal silver jewelry — just the earrings and thin necklace, to focus on simplicity.\n\nLighting & Color:\n• Soft teal/green cinematic light with gentle shadows and a low-saturation color grade.\n• Window light coming from the left with a calm, soft shadow cast across the outfit.\n• Light film grain, subtle vignetting to highlight the subject.\n\nBackground:\n• Aged industrial loft setting, softly blurred with a metal-frame window on the left side. Dark walls fade into shadow.\n\nFraming & Style:\n• Waist-up portrait, with a calm expression and eyes focused on the camera.\n• Natural, realistic textures on the jacket and skin. Subtle shadows with depth.\n• Slightly minimalist gothic vibe with serene undertones.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776414075748_thumb.jpg",
+      "image": "data/aiphoto/image/1776414075748.jpg"
+    },
+    {
+      "id": 2,
+      "prompt": "Preserve the exact identity of the uploaded person, maintaining their real facial structure, proportions, and natural expression without alteration.\n\nLook & Styling:\nEmbrace a refined gothic chic aesthetic with cool, pale skin and deep matte plum-to-black lips. Style the subject in a structured black leather jacket with metallic snap accents over a fitted black corset featuring subtle seam detailing. Retain the soft knit scarf for contrast. Pair with a long black skirt or sleek dark trousers to complete the silhouette. Add minimal silver accessories such as small earrings and a thin chain necklace.\n\nLighting & Atmosphere:\nUse moody cinematic lighting with cool teal and green hues. A soft, diffused window light enters from the left, casting gentle shadows and enhancing depth. Include subtle film grain and light vignette for a cinematic texture.\n\nEnvironment:\nSet in a dim industrial loft with an aged, dark-toned wall and a metal-frame window on the left side. Keep the background softly blurred with natural shadow gradients.\n\nComposition:\nFrame as a full-body portrait (upper body clearly visible), with the subject facing forward and making eye contact. Emphasize realistic materials like leather and metal, with natural hair and skin detail. Maintain a calm, understated gothic mood.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776414124507_thumb.jpg",
+      "image": "data/aiphoto/image/1776414124507.jpg"
+    },
+    {
+      "id": 3,
+      "prompt": "Create a high-quality, photorealistic portrait using the reference image. Keep the person’s exact face, identity, facial structure, and expression unchanged — no alterations at all.\n\nStyle the subject in a dark gothic aesthetic: pale matte skin, deep black or plum lips, smokey eyes with heavy eyeliner, subtle contouring.\n\nOutfit includes a black leather jacket with metallic details over a fitted corset, paired with dark layered clothing. Add minimal silver accessories like earrings and a thin necklace.\n\nLighting should be low-key cinematic, with soft shadows and cool tones. Background should be dark, moody, and slightly blurred (studio or gothic interior).\n\nMaintain natural skin texture and realism — avoid artificial or over-stylized face changes.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776414168722_thumb.jpg",
+      "image": "data/aiphoto/image/1776414168722.jpg"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "category_id": 49,
+  "category_name": "Ai Trend",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "A miniature collectible toy doll standing on a realistic human open palm, use the input image face exactly (strict identity preservation: same eyes, nose, lips, face shape, skin tone — no changes), subtly adapted to a feminine appearance while preserving identity, looking up slightly toward the camera, very small scale compared to the hand. Clearly a toy.\n\nCamera perspective:\nShot from directly above, top-down bird’s-eye view, looking straight down. The doll’s face tilted upward toward the camera.\n\nBody proportions:\nBalanced collectible doll proportions (1:4 ratio), NOT chibi, NOT bobblehead, slender feminine toy body.\n\nFace:\nExact same identity as input image, soft feminine styling (very subtle), smooth matte vinyl toy texture, no structural changes.\n\nHand details (VERY IMPORTANT):\nOnly ONE hand visible. A single LEFT thumb gently pressing one cheek inward.\nNo second thumb, no second hand interaction.\nOther fingers naturally supporting from below (not visible or softly blurred).\nRealistic human hand, correct anatomy, five fingers, no distortion.\n\nOutfit:\nWearing a tiny elegant flowing dress with soft fabric folds, pastel tones, delicate texture, paired with miniature ballet flats.\n\nMacro close-up, shallow depth of field, soft diffused lighting, ultra-detailed, cinematic, 8K.\n\n--no extra fingers --no second hand --no duplicate thumb --no bad anatomy",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413524917_thumb.jpg",
+      "image": "data/aiphoto/image/1776413524917.jpg"
+    },
+    {
+      "id": 2,
+      "prompt": "A miniature collectible toy doll standing on a realistic human open palm, use the input image face exactly (strict identity preservation), gently styled to feminine look while preserving all facial features, looking upward, very small toy scale. Clearly a toy.\n\nCamera perspective:\nTop-down bird’s-eye view.\n\nBody proportions:\nBalanced 1:4 proportions, slender feminine body.\n\nFace:\nExact same identity, smooth matte vinyl texture, no facial changes.\n\nHand details (VERY IMPORTANT):\nOnly ONE LEFT thumb pressing one cheek inward.\nNo second thumb or extra hand.\nOther fingers naturally supporting underneath.\n\nOutfit:\nWearing a tiny winter outfit with a long coat, scarf, fitted leggings, and miniature boots, layered soft textures.\n\nMacro close-up, shallow depth of field, soft diffused lighting, ultra-detailed, cinematic, 8K.\n\n--no extra fingers --no duplicate thumb --no second hand --no bad anatomy",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413577639_thumb.jpg",
+      "image": "data/aiphoto/image/1776413577639.jpg"
+    },
+    {
+      "id": 3,
+      "prompt": "A miniature collectible toy doll standing on a realistic human open palm, use the input image face exactly (strict identity preservation), gently styled to feminine look while preserving all facial features, looking upward, very small toy scale. Clearly a toy.\n\nCamera perspective:\nTop-down bird’s-eye view.\n\nBody proportions:\nBalanced 1:4 proportions, slender feminine body.\n\nFace:\nExact same identity, smooth matte vinyl texture, no facial changes.\n\nHand details (VERY IMPORTANT):\nOnly ONE LEFT thumb pressing one cheek inward.\nNo second thumb or extra hand.\nOther fingers naturally supporting underneath.\n\nOutfit:\nWearing a tiny winter outfit with a long coat, scarf, fitted leggings, and miniature boots, layered soft textures.\n\nMacro close-up, shallow depth of field, soft diffused lighting, ultra-detailed, cinematic, 8K.\n\n--no extra fingers --no duplicate thumb --no second hand --no bad anatomy",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413617486_thumb.jpg",
+      "image": "data/aiphoto/image/1776413617486.jpg"
+    },
+    {
+      "id": 4,
+      "prompt": "A miniature collectible toy doll standing on a person’s open palm looking up side at camera, pocket-sized figurine, very small scale compared to the hand. Clearly a toy.\n Camera perspective (very important):\nShot from directly above, top-down camera angle, bird’s-eye view, looking straight down at the doll from above. The doll’s face tilted upward toward the camera.\n Body proportions:\nHead slightly larger than body but balanced, realistic doll proportions, NOT chibi, NOT bobblehead, normal collectible doll head-to-body ratio (1:4), slender toy body, small limbs.\n Face:\nSymmetrical cute face, soft round facial structure, smooth forehead, small button nose, evenly spaced round eyes looking upward, soft eyelids, natural alignment, small lips in a gentle pout, soft cheek volume, subtle blush, clean matte vinyl doll skin. Innocent slightly pouty expression.\nA large human finger gently pressing both cheeks inward, emphasizing tiny scale.\n Macro close-up, shallow depth of field, soft diffused lighting, sharp focus on doll’s face, blurred background. 3D stylized realism, collectible figurine aesthetic, ultra-detailed, cinematic, 8K.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413655370_thumb.jpg",
+      "image": "data/aiphoto/image/1776413655370.jpg"
+    },
+    {
+      "id": 5,
+      "prompt": "A miniature collectible toy doll standing on a person’s open palm looking up side at camera, pocket-sized figurine, very small scale compared to the hand. Clearly a toy.\n Camera perspective (very important):\nShot from directly above, top-down camera angle, bird’s-eye view, looking straight down at the doll from above. The doll’s face tilted upward toward the camera.\nBody proportions:\nHead slightly larger than body but balanced, realistic doll proportions, NOT chibi, NOT bobblehead, normal collectible doll head-to-body ratio (1:4), slender toy body, small limbs.\nFace:\nSymmetrical cute face, soft round facial structure, smooth forehead, small button nose, evenly spaced round eyes looking upward, soft eyelids, natural alignment, small lips in a gentle pout, soft cheek volume, subtle blush, clean matte vinyl doll skin. Innocent slightly pouty expression.\nA large human finger gently pressing both cheeks inward, emphasizing tiny scale.\n Macro close-up, shallow depth of field, soft diffused lighting, sharp focus on doll’s face, blurred background. 3D stylized realism, collectible figurine aesthetic, ultra-detailed, cinematic, 8K.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413804493_thumb.jpg",
+      "image": "data/aiphoto/image/1776413804493.jpg"
+    }
+  ]
+}

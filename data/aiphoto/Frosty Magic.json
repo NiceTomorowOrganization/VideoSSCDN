@@ -1,0 +1,34 @@
+{
+  "category_id": 17,
+  "category_name": "Frosty Magic",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "Create a high-quality, photorealistic portrait of an elegant Ice Queen woman.\n\nShe wears a soft icy-blue gown with delicate lace details and subtle crystal accents, paired with a refined snowflake tiara. Her makeup is natural and winter-inspired — cool tones, soft shimmer, light contour, and muted nude or pink lips.\n\nThe setting is a realistic snowy outdoor environment, with natural white snow on the ground and gentle snowfall. Avoid fantasy glow — focus on true-to-life snow texture and atmosphere.\n\nPose: graceful and poised, with one hand softly touching the collarbone or resting near the face.\n\nLighting should be soft winter daylight or overcast, creating a cinematic but natural look with subtle shadows.\n\nStyle: realistic, elegant, high-resolution, winter fashion portrait, with authentic details and a calm, regal mood.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413870727_thumb.jpg",
+      "image": "data/aiphoto/image/1776413870727.jpg"
+    },
+    {
+      "id": 2,
+      "prompt": "**“Create a series of ultra-realistic, high-fashion fantasy portraits featuring a woman styled as an elegant Ice Queen. The environment is a shimmering winter wonderland with frosty blue tones, crystalline textures, falling snow, and soft glowing light. The atmosphere should feel magical, regal, and ethereal.\n\nThe woman must wear an intricate icy-blue ball gown with translucent fabric, crystal-like details, and delicate embroidery that sparkles under the cold light. She also wears a crown made of sharp, clear ice-like crystals and matching crystal earrings. Her makeup is cool-toned: frosty blue eyeshadow, shimmering highlights, glossy lips, and soft glowing skin. Snowflakes gently fall around her, adding dreamy motion to the image.\n\nCreate 2–3 unique poses in the exact same styling and environment:\n\nPose 1 (Main Look) – Elegant pose similar to the reference: the woman stands confidently, one hand near her collarbone, looking directly at the camera with calm royal expression. Soft snow falls around her.\n\nThe lighting must be soft, cool, and luminous with icy reflections, crystal highlights, and detailed textures on the gown and crown. Use shallow depth of field, ultra-realistic skin detail, and high-end editorial fashion photography style. Final images should look like a luxury fantasy photoshoot for a winter queen — magical, elegant, and visually stunning.”** give  all poses in animated video",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413922333_thumb.jpg",
+      "image": "data/aiphoto/image/1776413922333.jpg"
+    },
+    {
+      "id": 3,
+      "prompt": "Generate a four-image grid of the same woman in different poses, styled as a modern Ice Queen with a real-world winter aesthetic.\n\nOutfit: elegant icy-blue dress with fine lace and minimal crystal accents, styled like a luxury winter photoshoot. Add a subtle snowflake tiara.\n\nMakeup: clean, editorial, winter-inspired — cool tones, soft glow, no exaggerated fantasy elements.\n\nScene: authentic snowy environment with real white snow, slightly overcast sky, and natural falling snowflakes.\n\nPoses included:\n• Hand near collarbone\n• Hands clasped in front\n• Hand softly touching face\n• Side profile\n\nLighting should feel natural and soft (like a winter photoshoot), avoiding artificial glow — focus on realism and elegance.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776413964419_thumb.jpg",
+      "image": "data/aiphoto/image/1776413964419.jpg"
+    },
+    {
+      "id": 4,
+      "prompt": "Multi-Pose Grid Prompt:\n“Four portraits of an elegant Ice Queen woman in different poses and angles. She wears an icy-blue crystal gown with lace details, a snowflake tiara, and an ethereal winter makeup look. The background is a frosty blue magical winter setting with snow falling. Each frame shows slightly different expressions and poses:\n\nHand touching collarbone\n\nHands clasped in with front view\n\nHand resting near face\n\nSide profile with soft lighting\nCinematic lighting, frosty glow, high-resolution, fantasy elegance, winter queen aesthetic.” more realistic like real white snow",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776414007606_thumb.jpg",
+      "image": "data/aiphoto/image/1776414007606.jpg"
+    }
+  ]
+}

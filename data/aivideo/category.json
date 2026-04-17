@@ -1,26 +1,26 @@
 [
   {
-    "id": 1,
-    "name": "Trending",
-    "path":"data/aivideo/top_trending.json"
-
-  },
-   {
     "id": 2,
-    "name": "Holi",
-    "path":"data/aivideo/holi.json"
-
+    "name": "AI Nostalgia",
+    "count": 6,
+    "path": "data/aivideo/AI Nostalgia.json"
   },
-   {
-    "id": 3,
-    "name": "Giant meow",
-    "path":"data/aivideo/giant_meow.json"
-
+  {
+    "id": 27,
+    "name": "Baby Dance",
+    "count": 6,
+    "path": "data/aivideo/Baby Dance.json"
   },
-   {
-    "id": 4,
-    "name": "Trending",
-    "path":"data/aivideo/cinematic.json"
-
+  {
+    "id": 45,
+    "name": "Relax",
+    "count": 5,
+    "path": "data/aivideo/Relax.json"
+  },
+  {
+    "id": 54,
+    "name": "Trend Dance",
+    "count": 6,
+    "path": "data/aivideo/Trend Dance.json"
   }
 ]

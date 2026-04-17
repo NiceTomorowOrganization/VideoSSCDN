@@ -1,0 +1,41 @@
+{
+  "category_id": 60,
+  "category_name": "Nostalgia AI",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "Convert the provided black-and-white photograph into a modern ultra-HD color photograph.\n\n🚨 NON-NEGOTIABLE:\n– Keep image EXACTLY the same\n– No structural or identity changes\n– Only color and lighting adjustments allowed\n\n✅ Colorization (warmer, richer palette — clearly different)\n\n– Skin: warm olive tone with golden warmth (slightly richer than natural)\n– Hair: dark brown with subtle warm highlights\n– Cardigan: warm deep brown / cocoa tone (NO green)\n– Inner shirt: rich deep wine red (warmer than burgundy)\n– Trousers: dark chocolate brown with warm undertones\n\n🌇 Lighting & Contrast\n\n– Golden-hour sunlight (warm natural glow)\n– Medium contrast (softer than Prompt 3)\n– Shadows: soft, slightly diffused, warm-toned\n– Highlights: warm and glowing (subtle golden tint)\n– Saturation: slightly richer and warmer overall\n\n🏞 Background\n\n– Same layout and elements\n– Apply clean colors with warm light influence\n– Natural depth with soft warmth\n\n🔧 Enhancement\n\n– Remove all aging artifacts\n– Maintain natural texture (no over-sharpening)\n– Balanced clarity\n\n🎯 Final result:\n\nA warm, softly lit modern photograph with golden natural light and rich tones — clearly distinct from Prompt 3, while keeping the image perfectly identical.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776411432136_thumb.jpg",
+      "image": "data/aiphoto/image/1776411432136.jpg"
+    },
+    {
+      "id": 2,
+      "prompt": "Convert the provided black-and-white photograph into a modern, ultra-clear, high-resolution color photograph.\n\n🚨 ABSOLUTE RULE — NO CHANGE:\n– The image must remain EXACTLY the same as the input\n– Do NOT alter even 1% of: face, expression, pose, body, proportions, clothing shape, folds, or position\n– Do NOT retouch, beautify, reshape, or reinterpret\n– Do NOT add or remove any detail\n– Pixel structure and composition must remain identical\n\n✅ ONLY allowed change: accurate colorization + lighting adjustment\n\nColor application (consistent and realistic):\n– Skin: natural olive-warm tone\n– Hair: natural dark brown\n– Cardigan: deep muted olive green\n– Inner shirt: rich burgundy\n– Trousers: dark brown\n\nLighting & contrast:\n– Neutral natural daylight\n– Balanced exposure\n– Medium contrast\n– Soft natural shadows\n\nBackground:\n– Keep EXACT same structure and objects\n– Only replace grayscale tones with natural modern colors\n– No redesign, no blur, no depth change\n\nEnhancement:\n– Remove grain, scratches, fading, sepia\n– Maintain natural sharpness without altering details\n\nFinal result:\nA perfectly identical image, ONLY colorized, appearing as a clean modern photograph.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776411487139_thumb.jpg",
+      "image": "data/aiphoto/image/1776411487139.jpg"
+    },
+    {
+      "id": 3,
+      "prompt": "Use the uploaded image as the exact reference.\nTransform this old sepia-toned family portrait into a modern, bright, vibrant, ultra-realistic color image.\nCompletely remove all sepia, vintage, yellow, and aged effects.\nApply natural, healthy modern skin tones with clear facial detail and realistic skin texture.\nUpgrade clothing to fresh, modern, natural colors while preserving the original clothing style, patterns, and structure.\nEnhance lighting to clean natural daylight with modern cinematic color grading, balanced highlights, and soft shadows.\nPreserve faces, identity, expressions, age, pose, and body proportions exactly — no changes to structure or emotion.\nKeep the background realistic and modern-looking, maintaining the original setting with improved clarity and soft depth of field.\nThe final image should look new, contemporary, colorful, sharp, and professionally photographed in 4K quality.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776411528405_thumb.jpg",
+      "image": "data/aiphoto/image/1776411528405.jpg"
+    },
+    {
+      "id": 4,
+      "prompt": "Use the uploaded image as the exact reference.\nTransform this black-and-white historical photograph into a modern, bright, vibrant, ultra-realistic color image.\nRemove all grayscale, sepia, and aged effects completely.\nApply natural, healthy modern skin tones and rich, realistic clothing colors while preserving the original clothing style, details, and cultural authenticity.\nEnhance lighting to clean natural daylight with contemporary cinematic color grading and balanced contrast.\nPreserve faces, identity, expressions, age, pose, and proportions exactly.\nBackground should look clean, realistic, and contemporary, with subtle depth of field.\nFinal result should appear new, colorful, sharp, and professionally photographed in 4K quality.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776411679844_thumb.jpg",
+      "image": "data/aiphoto/image/1776411679844.jpg"
+    },
+    {
+      "id": 5,
+      "prompt": "Use the uploaded image as the exact reference.\nConvert this black-and-white photograph into a modern, ultra-clear, high-resolution color photograph with a clean, contemporary photographic look.\n \nDo NOT change the face, pose, expression, body structure, or clothing style.\n \nPreserve the exact facial identity, realistic olive-warm skin tone, and natural dark brown hair color and texture, exactly matching the reference image.\n \nApply clean, realistic, modern color grading (no vintage or aged look):\n– Cardigan in deep muted green / dark olive green\n– Inner shirt in rich deep red or burgundy with subtle black shadow details\n– Trousers in dark brown with soft black undertones\n \nUpdate the background appearance while keeping the same structure and objects:\n– Maintain the same background elements and layout\n– Remove all aged, dull, dusty, or sepia appearance\n– Apply natural modern colors, clean textures, and clear definition\n– Background should look fresh, realistic, and naturally lit, as if photographed today\n \nCompletely remove all signs of age:\n– no grain\n– no scratches\n– no fading\n– no sepia tones\n– no film artifacts\n \nEnhance with ultra-sharp focus, high micro-detail, crisp edges, and balanced modern daylight lighting, similar to a professional DSLR or mirrorless camera photo.\n \nKeep the image fully photorealistic and natural, avoiding oversaturation, HDR effects, artificial skin smoothing, or stylized looks.\n \nFinal result should appear as a present-day, ultra-HD color photograph, extremely clear, crisp, lifelike, and clean — not old, not vintage, not cinematic, while staying faithful to the original image composition.",
+      "no_of_image_input": 1,
+      "thumb": "data/aiphoto/thumb/1776412319851_thumb.jpg",
+      "image": "data/aiphoto/image/1776412319851.jpg"
+    }
+  ]
+}

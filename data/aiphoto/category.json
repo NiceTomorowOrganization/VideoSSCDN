@@ -1,62 +1,26 @@
 [
   {
-    "id": 1,
-    "name": "Trending",
-    "url": "data/aiphoto/trending.json"
+    "id": 49,
+    "name": "Ai Trend",
+    "count": 5,
+    "path": "data/aiphoto/AI Trend.json"
   },
   {
-    "id": 2,
-    "name": "Sensual Potrait",
-    "url": "data/aiphoto/sensual_portrait.json"
-  },
-  {
-    "id": 3,
-    "name": "Valentine",
-    "url": "data/aiphoto/valentine.json"
-  },
-  {
-    "id": 4,
-    "name": "Studio Elegance",
-    "url": "data/aiphoto/studio_elegance.json"
+    "id": 17,
+    "name": "Frosty Magic",
+    "count": 4,
+    "path": "data/aiphoto/Frosty Magic.json"
   },
   {
     "id": 6,
-    "name": "Holiday Season",
-    "url": "data/aiphoto/holiday_season.json"
+    "name": "Gothic Vibes",
+    "count": 3,
+    "path": "data/aiphoto/Gothic Vibes.json"
   },
   {
-    "id": 7,
-    "name": "Red Studio",
-    "url": "data/aiphoto/red_studio.json"
-  },
-  {
-    "id": 8,
-    "name": "Pet Wallpapers",
-    "url": "data/aiphoto/pet_wallpapers.json"
-  },
-  {
-    "id": 9,
-    "name": "Love Portraits",
-    "url": "data/aiphoto/love_portraits.json"
-  },
-  {
-    "id": 10,
-    "name": "Luxury Lifestyle",
-    "url": "data/aiphoto/luxury_lifestyle.json"
-  },
-  {
-    "id": 11,
-    "name": "Love Essence",
-    "url": "data/aiphoto/love_essence.json"
-  },
-  {
-    "id": 12,
-    "name": "Neon Light Epic Portrait",
-    "url": "data/aiphoto/neon_light_epic_portrait.json"
-  },
-  {
-    "id": 13,
-    "name": "Retake AI",
-    "url": "data/aiphoto/RetakeAI.json"
+    "id": 60,
+    "name": "Nostalgia AI",
+    "count": 5,
+    "path": "data/aiphoto/Nostalgia AI.json"
   }
 ]
