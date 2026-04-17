@@ -1,0 +1,49 @@
+[
+ {
+      "id": 1,
+      "prompt": "Create a cute, ultra-realistic, vertical 9:16 viral baby dance video using the uploaded baby image as the exact identity reference. Do not change the baby’s face in any way — preserve the same facial features, eye shape, nose, lips, cheeks, skin texture, age, hairline, hairstyle, and body proportions with perfect consistency throughout the video.\n \nScene & Environment\nThe baby is standing and dancing confidently in a modern indoor home setting with soft ambient lighting. The background should feel warm, clean, and family-friendly, with shallow depth of field to keep focus on the baby. Floor and surroundings should look realistic and natural, suitable for a viral home video.\n \nCostume & Appearance (IMPORTANT)\nUse the exact costume from the uploaded reference image:\n– Dark green traditional outfit with golden embroidery\n– Matching traditional pants\n– Barefoot\nFabric texture, embroidery details, fit, and colors must remain realistic and unchanged. Hairstyle, skin tone, and facial expression remain true to the reference image.\n \nDance Movements (VERY IMPORTANT)\nThe baby performs a new sequence of adorable, viral dance steps, inspired by playful baby energy but not copying the reference exactly:\n– Gentle bouncing steps in place with rhythmic knee bends\n– Small joyful hops with soft landings\n– One arm raised overhead while the other swings sideways, then switching arms\n– Playful side-to-side steps with tiny foot slides\n– Light hand waves near the face, then down toward the waist\n– Cute shoulder shimmies synced with the rhythm\n– Subtle hip wiggles while stepping forward and back\n– Tiny spins or half-turns with balance maintained\n– Brief pause with a confident baby pose, then resuming dance\n– Expressive but natural baby gestures, including curious head tilts and playful seriousness\nAll movements must be natural baby motions — balanced, rhythmic, cute, and stable. No adult-style choreography, no extreme flexibility, no exaggerated speed.\nFacial Expression & Mood\n– Confident and playful baby attitude\n– Occasional serious cute look, followed by excitement\n– Natural blinking, soft smiles, curious expressions\n– No overacting, no cartoon exaggeration\n \nCamera & Style\nCamera stays at baby height with a slight handheld feel for realism. Smooth motion, no shaking, no zoom jumps.\nLighting is soft, warm indoor light with realistic shadows.\nStyle is hyper-realistic, cinematic yet adorable, optimized for social-media virality.\n \nQuality & Constraints\n– High resolution, smooth animation\n– No glitches, no warping, no distortion\n– No face swapping errors, no identity drift\n– Loop-friendly ending\n– No text, no labels, no icons, no UI elements\nMaintain full identity consistency of the baby from start to end.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776405140158.jpg",
+      "video": "data/aivideo/video/1776405140158.mp4"
+    },
+     {
+      "id": 1,
+      "prompt": "A cheerful woman dancing energetically inside a cozy living room. She has her hair tied back in a ponytail and is wearing a fitted blue t-shirt, dark blue skinny jeans, and white sneakers.\n\nShe performs a playful, rhythmic dance: starting with both hands behind her head, then bringing her arms forward into a light punching motion, followed by smooth side-to-side hip and leg movement. Her facial expression is happy and relaxed, smiling naturally.\n\nThe environment is a warm home interior with tiled white floor, soft yellow lighting, a couch and chairs in the background, a small table, curtains with daylight coming through, and a chandelier hanging from the ceiling.\n\nCamera is static, full-body framing, slightly vertical (portrait mode), capturing natural human motion.\n\nLighting is soft indoor daylight mixed with warm ambient tones.\n\nStyle: realistic, candid home video, natural skin tones, high detail, no exaggeration.\n\nMotion: smooth, continuous dance loop with natural arm and hip movement, no distortion, correct anatomy, consistent body proportions.\n\nQuality: 4K, realistic motion blur, stable video.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407692203.jpg",
+      "video": "data/aivideo/video/1776407692203.mp4"
+    },
+
+    {
+      "id": 1,
+      "prompt": "A young adult man performing a joyful dance while standing upright. His entire body is fully visible in the frame from head to toe. The man is wearing fully covering clothing: a long-sleeve black sweatshirt, loose dark blue jeans, and white sneakers. His outfit covers the entire upper and lower body with no exposed skin except hands and face.\n \nThe man performs energetic dance movements, including rhythmic footwork, side steps, small spins, arm movements, and light jumps, while maintaining a confident and happy expression.\n \nThe scene takes place on a modern outdoor city plaza at night. The background features glowing city lights, illuminated buildings, and colorful LED stage lights creating a lively dance atmosphere.\n \nScene style\n \nsemi-realistic cinematic style\n \nmodern urban environment\n \nvibrant LED lighting\n \nenergetic dance atmosphere\n \nsmooth animation\n \nCamera\n \nfull body shot (head-to-toe visible at all times)\n \ncamera slightly moving but always keeping the dancer fully in frame\n \ncinematic lighting\n \nQuality\n \n4K, smooth motion, high detail, realistic lighting, vibrant colors",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776407190672.jpg",
+      "video": "data/aivideo/video/1776407190672.mp4"
+    }
+  
+]
