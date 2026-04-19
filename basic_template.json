@@ -42,18 +42,6 @@
           "video": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoSSCDN@main/data/video/248c69f8-3708-4ed5-b222-5f4a677cdca5.mp4"
         },
         {
-          "id_template": "8fb4011b-64b9-451b-bc49-ebdbfae1d030",
-          "name_template": "Hot story ❣️",
-          "priority": 7,
-          "image_number": 4,
-          "duration": 12,
-          "check": "Done",
-          "image": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoSSCDN@main/data/image/8fb4011b-64b9-451b-bc49-ebdbfae1d030.jpg",
-          "music": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoSSCDN@main/data/music/8fb4011b-64b9-451b-bc49-ebdbfae1d030.mp3",
-          "pag": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoSSCDN@main/data/pag/8fb4011b-64b9-451b-bc49-ebdbfae1d030.pag",
-          "video": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/VideoSSCDN@main/data/video/8fb4011b-64b9-451b-bc49-ebdbfae1d030.mp4"
-        },
-        {
           "id_template": "8166a3c6-8983-4422-9cf4-28da8e37e670",
           "name_template": "Trend 2 pics",
           "priority": 9,
