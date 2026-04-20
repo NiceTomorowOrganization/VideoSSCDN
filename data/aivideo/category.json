@@ -12,6 +12,18 @@
     "path": "data/aivideo/Baby Dance.json"
   },
   {
+    "id": 56,
+    "name": "Hero AI",
+    "count": 4,
+    "path": "data/aivideo/Hero AI.json"
+  },
+  {
+    "id": 28,
+    "name": "MV",
+    "count": 4,
+    "path": "data/aivideo/MV.json"
+  },
+  {
     "id": 45,
     "name": "Relax",
     "count": 5,

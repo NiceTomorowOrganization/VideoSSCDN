@@ -1,0 +1,66 @@
+{
+  "category_id": 28,
+  "category_name": "MV",
+  "items": [
+    {
+      "id": 1,
+      "prompt": "Use the uploaded photo as the main character. Keep the same face, skin tone, body build, and clothing style from the image. The person is sitting in the center of a luxurious living room on a light-colored sofa, wearing a thick golden‑brown fur coat over a dark outfit, dark jeans, a black cap, big gold chains with a large round pendant, and multiple shiny rings. Background: elegant high‑ceiling room, chandelier above, large windows and wall panels, two dark statues or suited figures on each side, soft warm lighting, rich cinematic look. Animate a smooth ‘making it rain’ rap performance:\nThe person leans back slightly in a relaxed, confident posture, legs apart, elbows near the knees, moving to the beat.\nWith one hand they repeatedly grab a stack of US dollar bills from their lap and flick the wrist forward and upward, spreading the notes so they fan out and fall in front of the camera, while the other hand occasionally throws a smaller handful of cash to the side.\nAt the same time, the mouth is clearly rapping along to an energetic hip‑hop track: lips moving in sync as if delivering fast rap bars, with subtle head nods, eyebrow raises, and hand gestures emphasizing the lyrics, like pointing at the camera, tapping the chest, or bouncing the hand to the rhythm.\nCamera: vertical 9:16, medium shot framed from head to knees, slight forward push‑in and tiny side shake to add energy, always focused on the person, their lip‑sync rap, and the flying money. Style: ultra‑realistic, high‑definition, crisp details on the fur coat, jewelry, facial expressions, and dollar bills, 5–8 second video, seamless loop if possible.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776614612005.jpg",
+      "video": "data/aivideo/video/1776614612005.mp4"
+    },
+    {
+      "id": 2,
+      "prompt": "Use the uploaded photo as the main character. Keep the same face, skin tone, body build, and clothing style from my image. Place the person at the edge of a bright daytime luxury pool party at a modern villa. The camera is close to the performer standing on the pool deck in the foreground, wearing a fitted white tank top, white joggers, white sneakers, a black cap, and heavy gold chains with a big medallion. The person holds a black microphone in one hand and gestures with the other while performing. Behind them is a packed swimming pool and poolside area full of party guests in colorful swimwear, floating in the water and standing around the pool, all looking toward the performer. Background: sleek white modern house with glass balcony, open sliding doors, decorations, and clear blue sky with bright sun.\nAnimate an energetic rap performance shot:\nThe performer leans slightly toward the camera, nodding to the beat, lips moving clearly as if rapping into the mic.\nThe free hand pumps in the air, points toward the crowd, and occasionally waves to hype them up, while people in the background cheer, raise their arms, and move to the music.\nCamera: vertical 9:16, handheld concert feel, slight side-to-side sway and small forward push‑ins that keep the performer dominant in the frame while still showing the crowd and pool behind. Style: ultra‑realistic summer party video, bright colors, sharp details in the water, house, and crowd, 5–8 second clip, smooth loop if possible.",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776614850184.jpg",
+      "video": "data/aivideo/video/1776614850184.mp4"
+    },
+    {
+      "id": 3,
+      "prompt": "Cinematic music video scene of a confident rapper performing at night on a neon-lit urban street. Wet pavement reflecting lights, drifting fog in the air, glowing signs and street lamps behind. He raps directly toward the camera with emotional intensity and commanding presence.\n \n👕 Proper Rapper Costume (Performance Ready)\n \n• Oversized layered streetwear hoodie under a textured bomber jacket\n• Longline graphic tee visible beneath\n• Slim distressed black jeans with knee detail\n• High-top sneakers with reflective accents\n• Thick silver chain + smaller pendant chain\n• Rings and wristwatch catching light\n• Crossbody street bag or shoulder strap accessory\n• Clean fade haircut, light stubble beard\n• Slight sweat sheen on forehead for realism\n \nFabric reacts naturally to walking and hand motion.\n \n✋ Hand & Body Movements (Rap Performance Style)\n \n• Mic held close to mouth with natural grip\n• Free hand slicing air to emphasize lyrics\n• Finger point toward camera on punch lines\n• Palm open chest tap for emotional lines\n• Shoulder bounce with rhythm\n• Short forward steps synced with beat\n• Occasional two-hand outward “hype” gesture\n• Subtle body lean toward lens during intense bars\n \n👥 Audience / Crowd Energy\n \n• Small crowd gathered behind and around him\n• People nodding heads to beat\n• Some holding phones with screen glow\n• Occasional raised hands\n• Silhouettes moving in rhythm\n \nCrowd slightly blurred for depth.\n \n💡 Lighting Upgrade\n \n• Cool blue overhead streetlight\n• Warm orange rim light from side shop signs\n• Neon pink/purple reflections on pavement\n• Passing car headlights creating moving light streaks\n• Soft haze making light beams visible\n• Light reflecting on chains and jacket texture\n \n🎥 Camera Style\n \n• Tracking shot moving backward as he walks\n• Quick push-in on intense lyric moments\n• Close-up facial emotion shots\n• Slight handheld micro-shake for realism\n• Low-angle hero shot briefly\n \n🎨 Visual Style\n \nGritty cinematic grading, deep contrast, realistic skin texture, shallow depth of field, professional music video production look, 8K.\n \n🎬 Motion Tags\n \n--music video style --urban night --street rap performance --crowd atmosphere --dynamic lighting --hand gesture realism --cinematic camera --8k",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776615992491.jpg",
+      "video": "data/aivideo/video/1776615992491.mp4"
+    },
+    {
+      "id": 4,
+      "prompt": "Cinematic music video scene of a confident rapper sitting in the driver’s seat of a parked car at night, the car door open. One leg is outside resting on the pavement, the other inside the car. He leans slightly forward, rapping toward the camera with expressive face and natural lip sync.\n \n👕 Outfit & Look (Stylish Street Luxury)\n \n• Oversized hoodie layered under a premium bomber or varsity jacket\n• Slim dark jeans or cargos\n• Clean high-top sneakers\n• Thick silver chain + watch\n• Rings reflecting light\n• Fresh fade haircut\n• Light stubble beard\n• Subtle sweat glow from lights\n \nFabric folds naturally as he sits.\n \n🎤 Performance Body Language\n \n• Mic held casually near mouth\n• Free hand tapping chest on emotional lines\n• Fingers pointing toward lens on punch lines\n• Head nodding with beat\n• Shoulder bounce\n• Occasional lean back into seat\n• Foot outside car tapping lightly to rhythm\n \nRelaxed but confident vibe.\n \n🌃 Background / Environment\n \nUrban night street:\n \n• Car headlights softly glowing\n• Neon signs reflecting on car body\n• Wet pavement reflecting lights\n• Faint city skyline blur\n• Light street fog/haze\n \n💡 Lighting\n \n• Interior car light softly illuminating face\n• Cool blue streetlight from above\n• Neon pink/purple reflections on car door\n• Warm rim light outlining his silhouette\n• Light beams visible in haze\n \n🎥 Camera Style\n \n• Medium shot from outside the open door\n• Slow push-in toward face\n• Occasional side angle through windshield\n• Handheld music video feel\n \n🎨 Visual Style\n \nCinematic night color grade, high contrast, glossy reflections on car, shallow depth of field, professional rap video look, 8K.\n \n🎬 Motion Tags\n \n--music video style --car performance --urban night --neon reflections --cinematic lighting --hand gesture realism --relaxed rap vibe --8k",
+      "no_of_image_input": 1,
+      "ratio": "9:16",
+      "duration": 5,
+      "frame_per_second": 24,
+      "watermark": false,
+      "generate_audio": false,
+      "camera_fixed": false,
+      "return_last_frame": false,
+      "draft": false,
+      "thumb": "data/aivideo/thumb/1776616088115.jpg",
+      "video": "data/aivideo/video/1776616088115.mp4"
+    }
+  ]
+}
